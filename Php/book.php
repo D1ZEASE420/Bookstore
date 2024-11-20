@@ -29,7 +29,7 @@ $stmt->execute(['id' => $id]);
         .container {
             max-width: 800px;
             margin: auto;
-            background: #ffffff;
+            background: #d8d8eb;
             border-radius: 10px;
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
             padding: 20px;
@@ -49,18 +49,18 @@ $stmt->execute(['id' => $id]);
             flex: 1;
         }
         h1 {
-            color: #4CAF50;
+            color: #1d1da1;
             font-size: 2.5em;
             margin-bottom: 10px;
         }
         h3 {
-            color: #4CAF50;
+            color: #1d1da1;
             margin-top: 15px;
             margin-bottom: 5px;
         }
         .authors {
             font-style: italic;
-            color: #555;
+            color: #1d1da1;
             margin: 5px 0 15px 0;
         }
         p {
