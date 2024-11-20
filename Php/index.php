@@ -50,10 +50,10 @@ if ($endPage - $startPage + 1 < $maxDisplayPages) {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #e2e8e1;
+            background-color: #d8d8eb;
         }
         header {
-            background-color: #4CAF50;
+            background-color: #5658c4;
             color: white;
             padding: 1rem;
             text-align: center;
@@ -77,14 +77,14 @@ if ($endPage - $startPage + 1 < $maxDisplayPages) {
         }
         button {
             padding: 0.5rem 1rem;
-            background-color: #a3c4a6;
+            background-color: #898ac4;
             color: white;
             border: none;
             border-radius: 5px;
             cursor: pointer;
         }
         button:hover {
-            background-color: #45a049;
+            background-color: #1d1da1;
         }
         ul {
             list-style: none;
@@ -103,7 +103,7 @@ if ($endPage - $startPage + 1 < $maxDisplayPages) {
         }
         a {
             text-decoration: none;
-            color: #4CAF50;
+            color: #1d1da1;
             font-weight: bold;
         }
         a:hover {
